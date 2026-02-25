@@ -45,7 +45,7 @@ Scalable review system built with:
 - Server Actions
 
 🔗 Repository:  
-https://github.com/HassaanRasool/next-reviews
+https://github.com/HassaanRasool/
 
 ---
 
