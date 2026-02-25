@@ -1,180 +1,90 @@
-<div align="center">Hassaan Rasool</div>
-<div align="center">Full Stack Engineer | Next.js Specialist | MERN Stack Developer</div>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Next.js+15%2B+%7C+MERN+Stack;WordPress+to+React+Migration+Expert;Performance-Driven+UI+Engineer;Open+to+Remote+Opportunities" /> </p>
-🚀 Professional Overview
+<h1 align="center">Hassaan Rasool</h1>
+<h3 align="center">Full Stack Engineer • Next.js Specialist • MERN Stack</h3>
 
-Full Stack Developer specializing in modern JavaScript ecosystems with strong expertise in:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Next.js+%7C+MERN+Stack;Supabase+Backend+Systems;Performance-Driven+UI+Engineering" />
+</p>
 
-Scalable Next.js applications
+---
 
-MERN stack architecture
+## 🚀 About Me
 
-Supabase backend systems
+Full Stack Developer focused on building scalable, production-ready web applications using modern JavaScript technologies.
 
-WordPress to React migrations
+I specialize in performance optimization, clean backend architecture, and responsive UI systems designed for real-world use.
 
-Performance optimization & clean UI engineering
+---
 
-I build production-ready applications with clean architecture, security best practices, and long-term maintainability.
+## 🛠 Tech Stack
 
-🧠 Core Expertise
-Frontend Engineering
+**Frontend**  
+React • Next.js • JavaScript (ES6+) • Tailwind CSS • Bootstrap • Framer Motion • NextAuth
 
-React.js
+**Backend**  
+Node.js • Express.js • REST APIs • Supabase • Authentication & API Security
 
-Next.js (App Router, SSR, ISR, Server Actions)
+**Database**  
+MongoDB • MySQL • PostgreSQL (Supabase)
 
-JavaScript (ES6+)
+**CMS**  
+WordPress • Elementor • WooCommerce
 
-Tailwind CSS
+**Tools**  
+Git • GitHub • Vercel • Netlify • Postman • VS Code
 
-Bootstrap
+---
 
-Framer Motion
+## 🌟 Featured Project
 
-Responsive & Mobile-First Design
+### Modern Reviews Platform  
+Scalable review system built with:
 
-Figma to Code
+- Next.js 15+
+- Supabase Auth & Database
+- Tailwind CSS
+- Server Actions
 
-Backend Development
+🔗 Repository:  
+https://github.com/HassaanRasool/next-reviews
 
-Node.js
+---
 
-Express.js
+## 📊 GitHub Stats
 
-REST API Architecture
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HassaanRasool&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=HassaanRasool&theme=tokyonight&hide_border=true" />
+</p>
 
-Authentication & Authorization
+---
 
-Supabase Integration
+## 🎯 What I Build
 
-API Security
+• SaaS Applications  
+• Admin Dashboards  
+• Full Stack Platforms  
+• WordPress to Next.js Migrations  
+• High-Performance UI Systems  
 
-Databases
+---
 
-MongoDB
+## 📌 Currently Exploring
 
-MySQL
+• Scalable SaaS Architecture  
+• Advanced Backend Patterns  
+• System Design  
+• Performance Engineering  
 
-Supabase (Postgres, Realtime, Storage)
+---
 
-Schema Design & Optimization
+## 📫 Connect
 
-CMS & Platforms
+Email: muhammadhassaanrasool@gmail.com  
+LinkedIn: https://www.linkedin.com/in/muhammadhassaanrasool/  
+Portfolio: https://hassaan-rasool.vercel.app/
 
-WordPress
+---
 
-Elementor
-
-WooCommerce
-
-SEO Optimization
-
-Tools & DevOps
-
-Git & GitHub
-
-VS Code
-
-Postman
-
-Vercel Deployment
-
-Netlify
-
-Docker (learning / expanding)
-
-🌟 Featured Project
-⭐ Modern Reviews Platform
-
-A scalable review system built with:
-
-Next.js 15+
-
-Supabase Auth & Database
-
-Tailwind CSS
-
-Server Actions
-
-Optimized performance structure
-
-🔗 Repository: https://github.com/HassaanRasool/next-reviews
-
-📊 GitHub Performance
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=HassaanRasool&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HassaanRasool&theme=tokyonight&hide_border=true" /> </p>
-🧩 What I Can Build
-
-✔ SaaS Applications
-✔ Custom Dashboards
-✔ Admin Panels
-✔ Scalable REST APIs
-✔ WordPress to Next.js Migration
-✔ High-Performance UI Systems
-
-📫 Contact
-
-Email: hassaan.dev@email.com
-
-LinkedIn: Add your real link
-
-Portfolio: Add live link
-
-Open to freelance & remote roles
-
-🏆 Next-Level Improvements (Important)
-
-To truly stand out from 90% of GitHub profiles:
-
-1️⃣ Add a Custom Banner
-
-Create a dark banner with:
-
-Your name
-
-“Full Stack Engineer”
-
-Subtle animated gradient
-
-Clean typography
-
-I can design one concept for you.
-
-2️⃣ Pin Strategic Projects (Very Important)
-
-Pin:
-
-Reviews System (Main)
-
-3D Portfolio
-
-One full-stack dashboard project
-
-One WordPress production project
-
-Remove small template projects from pinned.
-
-3️⃣ Remove Weak Signals
-
-If contributions are low:
-
-Push consistent commits for 30 days
-
-Improve contribution graph visually
-
-Recruiters notice this.
-
-4️⃣ Add Authority Section
-
-Add:
-
-📌 Currently Exploring
-
-System Design
-
-Scalable SaaS Architecture
-
-Advanced Backend Patterns
-
-Performance Engineering
-
+<p align="center">
+  <i>Open to freelance & remote opportunities</i>
+</p>
