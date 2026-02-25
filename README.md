@@ -9,40 +9,47 @@
 
 ## 🚀 About Me
 
-Full Stack Developer focused on building scalable, production-ready web applications using modern JavaScript technologies.
+Full Stack Developer focused on building scalable, production-ready web applications using modern JavaScript technologies.  
 
-I specialize in performance optimization, clean backend architecture, and responsive UI systems designed for real-world use.
+I specialize in performance optimization, backend architecture, and responsive UI systems designed for real-world use.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**  
-React • Next.js • JavaScript (ES6+) • Tailwind CSS • Bootstrap • Framer Motion • NextAuth
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,redux&theme=dark" />
+</p>
 
-**Backend**  
-Node.js • Express.js • REST APIs • Supabase • Authentication & API Security
+### ⚙ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextauth&theme=dark" />
+</p>
 
-**Database**  
-MongoDB • MySQL • PostgreSQL (Supabase)
+### 🗄 Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=dark" />
+</p>
 
-**CMS**  
-WordPress • Elementor • WooCommerce
-
-**Tools**  
-Git • GitHub • Vercel • Netlify • Postman • VS Code
+### 🧩 CMS & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,vercel,netlify,postman,docker&theme=dark" />
+</p>
 
 ---
 
 ## 🌟 Featured Project
 
 ### Modern Reviews Platform  
+
 Scalable review system built with:
 
 - Next.js 15+
 - Supabase Auth & Database
 - Tailwind CSS
 - Server Actions
+- Optimized performance structure  
 
 🔗 Repository:  
 https://github.com/HassaanRasool/
@@ -63,7 +70,7 @@ https://github.com/HassaanRasool/
 • SaaS Applications  
 • Admin Dashboards  
 • Full Stack Platforms  
-• WordPress to Next.js Migrations  
+• WordPress to Next.js Migration  
 • High-Performance UI Systems  
 
 ---
@@ -79,11 +86,9 @@ https://github.com/HassaanRasool/
 
 ## 📫 Connect
 
-Email: muhammadhassaanrasool@gmail.com  
-LinkedIn: https://www.linkedin.com/in/muhammadhassaanrasool/  
-Portfolio: https://hassaan-rasool.vercel.app/
-
----
+📧 muhammadhassaanrasool@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/muhammadhassaanrasool/  
+🌐 Portfolio: https://hassaan-rasool.vercel.app/  
 
 <p align="center">
   <i>Open to freelance & remote opportunities</i>
