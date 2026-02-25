@@ -19,22 +19,63 @@ I specialize in performance optimization, backend architecture, and responsive U
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" />
 </p>
+
+<p align="center">
+HTML • CSS • JavaScript • React • Next.js • Tailwind • Bootstrap • Figma
+</p>
+
+---
 
 ### ⚙ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextauth&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" />
+  <img src="https://skillicons.dev/icons?i=nextauth" width="48" />
 </p>
+
+<p align="center">
+Node.js • Express.js • NextAuth • REST APIs • Authentication
+</p>
+
+---
 
 ### 🗄 Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" />
 </p>
+
+<p align="center">
+MongoDB • MySQL • PostgreSQL • Supabase
+</p>
+
+---
 
 ### 🧩 CMS & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,vercel,netlify,postman,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=wordpress" width="48" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" />
+  <img src="https://skillicons.dev/icons?i=netlify" width="48" />
+  <img src="https://skillicons.dev/icons?i=postman" width="48" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" />
+</p>
+
+<p align="center">
+WordPress • Git • GitHub • VS Code • Vercel • Netlify • Postman • Docker
 </p>
 
 ---
