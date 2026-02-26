@@ -128,7 +128,7 @@ https://github.com/HassaanRasool/
 ## 📫 Connect
 
 📧 muhammadhassaanrasool@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/muhammadhassaanrasool/  
+🔗 LinkedIn: https://www.linkedin.com/in/mhassaanrasool/  
 🌐 Portfolio: https://hassaan-rasool.vercel.app/  
 
 <p align="center">
