@@ -54,7 +54,7 @@ Node.js • Express.js • NextAuth • REST APIs • Authentication
   <img src="https://skillicons.dev/icons?i=mysql" width="48" />
   <img src="https://skillicons.dev/icons?i=postgres" width="48" />
   <img src="https://skillicons.dev/icons?i=supabase" width="48" />
-  <img src="https://cdn.simpleicons.org/neon/00E599" width="48" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/neon.svg" width="48" />
 </p> 
 
 <p align="center">
