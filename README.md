@@ -54,10 +54,11 @@ Node.js • Express.js • NextAuth • REST APIs • Authentication
   <img src="https://skillicons.dev/icons?i=mysql" width="48" />
   <img src="https://skillicons.dev/icons?i=postgres" width="48" />
   <img src="https://skillicons.dev/icons?i=supabase" width="48" />
-</p>
+  <img src="https://skillicons.dev/icons?i=neon" width="48" />
+</p> 
 
 <p align="center">
-MongoDB • MySQL • PostgreSQL • Supabase
+MongoDB • MySQL • PostgreSQL • Supabase • Neon
 </p>
 
 ---
